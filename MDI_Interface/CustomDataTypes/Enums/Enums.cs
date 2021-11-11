@@ -29,7 +29,9 @@
         Axis4 = 25,
         Axis5 = 26,
         Axis6 = 27,
-
+        PMCAXISON = 28,
+        RecoaterRollerOn = 29,
+        RecoaterRollerOff = 30
     }
 
     public enum FocasErrorFlag { 

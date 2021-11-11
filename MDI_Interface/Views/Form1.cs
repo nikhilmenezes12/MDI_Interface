@@ -163,5 +163,21 @@ namespace MDI_Interface
             mdiButtonDataList = manipulator.RearrangeStructList(mdiButtonDataList);
 
         }
+
+
+        private void ctrlPlus_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ctrlPMCAXISON_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ctrlMinus_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
